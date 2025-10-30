@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "codigosPrincipales": ["P001", "P001A"],
+    "codigosSecundarios": ["S001", "S001B"],
+    "nombre": "Coca Cola",
+    "descripcion": "Refresco de cola 600ml",
+    "categoria": "Bebidas",
+    "precios": {
+      "publico": 18.50,
+      "distribuidor": 15.00,
+      "preferencial": 16.50
+    },
+    "costo": 12.00,
+    "stock": 50,
+    "stockMinimo": 10,
+    "proveedor": "Distribuidora Nacional",
+    "fechaCreacion": "2023-10-30T12:00:00.000Z",
+    "ultimaActualizacion": "2023-10-30T12:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "codigosPrincipales": ["P002"],
+    "codigosSecundarios": ["S002", "S002A", "S002B"],
+    "nombre": "Sabritas Clásicas",
+    "descripcion": "Papas fritas 45g",
+    "categoria": "Botanas",
+    "precios": {
+      "publico": 15.00,
+      "distribuidor": 12.00,
+      "preferencial": 13.50
+    },
+    "costo": 10.00,
+    "stock": 30,
+    "stockMinimo": 5,
+    "proveedor": "Sabritas SA",
+    "fechaCreacion": "2023-10-30T12:00:00.000Z",
+    "ultimaActualizacion": "2023-10-30T12:00:00.000Z"
+  }
+]
