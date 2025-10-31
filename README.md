@@ -45,3 +45,4 @@ git push -u origin main
 - Si el build no existe, Electron intentará el dev server (`http://localhost:3000`).
 - Cambios de UI requieren recompilar (`build`) o levantar el dev server.
 - El script `start-estanquillos.ps1` automatiza backend + build + Electron.
+>>>>>>> 9f619061970059a4f0e9934cb61b780d85be87c1
